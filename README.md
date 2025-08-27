@@ -1,8 +1,6 @@
 # Walmart-Sales-Data-Analysis
 Designed an end-to-end data pipeline using Python and SQL to analyze Walmart sales data.  Solved 9 key business problems including payment trends, busiest sales days,  top-rated categories, and profitability insights.  Delivered clean data, queries, and pipeline documentation.
 
-# Walmart Sales Data Analysis – SQL + Python
-
 ## 📌 Project Overview
 This project is an end-to-end **data analytics case study** on Walmart sales data.  
 It combines **Python** (for cleaning & preprocessing) and **SQL** (for business problem solving) to uncover insights into customer behavior, sales performance, and profitability.  
